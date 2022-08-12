@@ -179,4 +179,14 @@ flex-direction:  column;
   }
 }
 
+@media (max-width: 950px) { 
+    
+    .datos{
+      flex-direction: column;
+    }
+  }
+
+
+
+
   
